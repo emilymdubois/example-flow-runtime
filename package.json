@@ -4,7 +4,8 @@
   "description": "A flow-runtime playground",
   "main": "index.html",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "start": "npm run build && open index.html"
   },
   "repository": {
     "type": "git",

@@ -1,5 +1,5 @@
 {
-  "name": "flow-playground",
+  "name": "flow-runtime-example",
   "version": "1.0.0",
   "description": "A flow-runtime playground",
   "main": "index.html",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "flow-playground"
+    "url": "flow-runtime-example"
   },
   "author": "Emily DuBois",
   "license": "ISC",

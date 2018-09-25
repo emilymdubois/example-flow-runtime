@@ -1,10 +1,12 @@
-# flow-playground
+# flow-runtime-example
+
+An flow-runtime example implementation with Webpack.
 
 ## Install
 
 ```sh
-$ git@github.com:emilymdubois/flow-playground.git
-$ cd flow-playground
+$ git@github.com:emilymdubois/flow-runtime-example.git
+$ cd flow-runtime-example
 $ npm install
 ```
 
@@ -12,6 +14,5 @@ $ npm install
 
 ```sh
 $ npm start
-# In the open browser session, open the developer tools console.
-# Observe the run-time Flow error.
+# In the open browser session, open the developer tools console to observe the runtime Flow error.
 ```

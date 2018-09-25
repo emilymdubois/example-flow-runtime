@@ -1,0 +1,30 @@
+{
+  "name": "flow-playground",
+  "version": "1.0.0",
+  "description": "A flow-runtime playground",
+  "main": "index.html",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "flow-playground"
+  },
+  "author": "Emily DuBois",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-flow": "^6.23.0",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.1"
+  },
+  "dependencies": {
+    "babel-plugin-flow-runtime": "^0.17.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.5",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "flow-runtime": "^0.17.0"
+  }
+}

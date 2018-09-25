@@ -1,0 +1,4 @@
+{
+  "presets": ["flow", "stage-2"],
+  "plugins": [["flow-runtime", { "assert": true }], "transform-decorators-legacy"]
+}

@@ -1,7 +1,7 @@
 {
   "name": "flow-runtime-example",
   "version": "1.0.0",
-  "description": "A flow-runtime playground...",
+  "description": "A flow-runtime playground",
   "main": "index.html",
   "scripts": {
     "build": "webpack",

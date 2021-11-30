@@ -1,12 +1,12 @@
-# flow-runtime-example
+# example-flow-runtime
 
-An flow-runtime example implementation with Webpack.
+An example flow-runtime implementation with Webpack.
 
 ## Install
 
 ```sh
-$ git@github.com:emilymdubois/flow-runtime-example.git
-$ cd flow-runtime-example
+$ git clone git@github.com:emilymdubois/example-flow-runtime.git
+$ cd example-flow-runtime
 $ npm install
 ```
 
